@@ -8,6 +8,8 @@ I am a Computer Systems Engineering student seeking a software engineering inter
 
 [Projects](#projects) · [Education](#education) · [Hackathons and workshops](#hackathons-and-workshops) · [Skills](#skills) · [Experience](#experience)
 
+<a id="projects"></a>
+
 ### Projects
 
 #### Meet2Do
@@ -28,9 +30,13 @@ I contributed to a therapeutic-practice management project for clinicians, focus
 
 <!-- github:pinned -->
 
+<a id="education"></a>
+
 ### Education
 
 - 2024 – now · Chihuahua Technological Institute II · Computer Systems Engineering · Fifth semester · 97/100 average
+
+<a id="hackathons-and-workshops"></a>
 
 ### Hackathons and workshops
 
@@ -38,9 +44,13 @@ I contributed to a therapeutic-practice management project for clinicians, focus
 - September 2026 · Innovathon · 4th place with Meet2Do
 - Living Lab · Workshops in AI development, AI databases, and AI hardware
 
+<a id="skills"></a>
+
 ### Skills
 
 JavaScript, TypeScript, Python, Java, HTML, CSS, Git, GitHub, Supabase, APIs, and n8n. Spanish is my first language. I have advanced English reading, writing, and listening skills, and intermediate spoken English.
+
+<a id="experience"></a>
 
 ### Experience
 
