@@ -1,0 +1,4 @@
+.DS_Store
+# Keep original captures locally; publish the optimized copies.
+assets/*.png
+assets/*.mp4
