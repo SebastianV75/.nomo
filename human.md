@@ -1,14 +1,20 @@
-![Nina Park](assets/me.jpg)
+---
+id: human
+aliases: []
+tags: []
+---
 
-# Nina Park
+![Sebastian Valenzuela](assets/me.jpg)
 
-Designer in Copenhagen.
+# Sebastian Valenzuela
 
-I make websites and printed things. I care about type, spacing, and the last 10%.
+Software developer
 
-Lately I work with small software companies on their sites.
+I am an entusiastic software developer with a passion for creating things.
 
-[Email](mailto:nina@example.com) · [Are.na](https://www.are.na)
+Lately i do some personal projects, i like entrepenurship.
+
+[Email](sebasvalop0220@gmail.com) · [Unraw](unraw-web.vercel.app)
 
 ## Work
 
