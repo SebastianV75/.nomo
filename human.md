@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-![Sebastian Valenzuela](assets/me.jpg)
+![Sebastian Valenzuela](assets/me.png)
 
 # Sebastian Valenzuela
 
